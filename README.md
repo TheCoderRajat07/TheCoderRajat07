@@ -30,7 +30,7 @@ Here are some of the technologies and tools I frequently work with:
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCoderRajat07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Git stats](https://github-readme-stats.vercel.app/api?username=TheCoderRajat07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderRajat07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -40,7 +40,7 @@ Here are some of the technologies and tools I frequently work with:
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [https://www.linkedin.com/in/yourprofileurl](https://www.linkedin.com/in/rajat-khairnar-796534261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  <-- **Replace with your actual LinkedIn URL**
+* **LinkedIn:** [Rajat Khairnar](https://www.linkedin.com/in/rajat-khairnar-796534261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  <-- **Replace with your actual LinkedIn URL**
 * **Email:** [rajatkhairnar22@gmail.com] <-- **Replace with your email or preferred contact method**
 
 
