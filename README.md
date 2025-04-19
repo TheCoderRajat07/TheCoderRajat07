@@ -40,8 +40,8 @@ Here are some of the technologies and tools I frequently work with:
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Rajat Khairnar](https://www.linkedin.com/in/rajat-khairnar-796534261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  <-- **Replace with your actual LinkedIn URL**
-* **Email:** [rajatkhairnar22@gmail.com] <-- **Replace with your email or preferred contact method**
+* **LinkedIn:** [Rajat Khairnar](https://www.linkedin.com/in/rajat-khairnar-796534261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+* **Email:** [rajatkhairnar22@gmail.com] 
 
 
 ---
